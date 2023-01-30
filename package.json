@@ -1,0 +1,11 @@
+{
+    "name": "mvp"
+    , "version": "0.1.0"
+    , "description": "mvp calculation"
+    , "main": "main.js"
+    , "private": true
+    , "dependencies": {
+      "lodash": "^3.10.x"
+    }
+  }
+  
